@@ -61,7 +61,7 @@ header {
 }
 
 input[type="text"] {
-    width: 50%;
+    width: 40%;
     padding: 10px;
 }
 
@@ -110,12 +110,13 @@ a{
 
 }
 
-nav li {
-    
+nav ul li{
     list-style-type: none;
+    padding-bottom: 8px;
 }
+
 .container3 {
-    width: 60%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -124,4 +125,15 @@ nav li {
     margin: 0 auto;
     padding: 10px;
 }
+
+.space{
+    border-top: groove 2px rgba(199, 196, 196, 0.39);
+    width: 175%;
+    padding-top: 20px;
+}
+
+
+
+
+
 
