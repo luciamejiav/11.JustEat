@@ -61,7 +61,7 @@ header {
 }
 
 input[type="text"] {
-    width: 40%;
+    width: 20%;
     padding: 10px;
 }
 
@@ -87,7 +87,7 @@ input[type="button"] {
 .opacity{
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 150%;
     background-color: rgba(0, 0, 0, 0.459);
     color: white;
     height: 30%;
